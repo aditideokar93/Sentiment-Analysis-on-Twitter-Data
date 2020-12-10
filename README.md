@@ -2,7 +2,7 @@
 
 This repository contains 2 files-
 
-1)Sentiment_analysis_NRC_unigramlexicon_Twitter.ipynb
+1) Sentiment_analysis_NRC_unigramlexicon_Twitter.ipynb
 Sentiment scoring has been performed on the tweets using the state-of-the-art word-sentiment association lexicons **(NRC-Hashtag-Sentiment-Lexicon-v0.1)** instead of using the TextBlob library provided by Python. 
 
 2) Word_Cloud_TwitterData.ipynb
